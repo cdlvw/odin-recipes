@@ -96,6 +96,11 @@ a:hover {
     background-color: gray;
 }
 
+.image {
+    width: 400px;
+    height: auto;
+}
+
 .back {
     margin: 12px;
     padding: 8px;
